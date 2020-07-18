@@ -1,13 +1,11 @@
 # dotfiles
 
-Dotfiles for my devices
+> Wonderfully dotacious
 
-## Screenshots
+## Usage
 
-## Desktop
+For use with Mac OS and Manjaro
 
-i3, vim, neofetch...
+To install, run `install.sh`
 
-## Mac
-
-yabai, skhd, zsh, iTerm2...
+The script will create symlinks in `$HOME`

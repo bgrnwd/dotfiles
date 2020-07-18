@@ -98,3 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias py="python3"
+alias vim="nvim"
+alias gs="git status"
+alias pip="pip3"
